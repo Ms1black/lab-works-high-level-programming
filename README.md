@@ -2,7 +2,7 @@
 
 
 - [ **Лабораторная работа №1**:  25 вариант](https://github.com/Ms1black/lab-works-high-level-programming/blob/lab-1/README.md)
-- **Лабораторная работа №2**:  13 вариант
+- [**Лабораторная работа №2**:  13 вариант](https://github.com/Ms1black/lab-works-high-level-programming/tree/lab-2/README.md)
 - **Лабораторная работа №3**:
 - **Лабораторная работа №4**:
 - **Лабораторная работа №5**:
