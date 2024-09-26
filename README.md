@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  # Задача 1 :tshirt:
+  # [Задача 1](https://github.com/Ms1black/lab-works-high-level-programming/blob/lab-1/solutions/1.cpp) :tshirt:
 
 ******
 ![изображение](https://github.com/user-attachments/assets/ef34628b-3657-4ed6-be65-54a95ca4ecd4)
@@ -13,7 +13,7 @@
  
 
 
-# Задание 2 :bikini:
+# [Задание 2](https://github.com/Ms1black/lab-works-high-level-programming/blob/lab-1/solutions/2.cpp) :bikini:
 ******
 ![изображение](https://github.com/user-attachments/assets/36609c52-8751-4319-bd9d-284d2b217c09)
 
@@ -22,7 +22,7 @@
 
 ![Диаграмма без названия drawio(6)](https://github.com/user-attachments/assets/0ee6df83-1b12-40db-9660-6bec6ad10c13)
 
-# Задание 3 :skull:
+# [Задание 3](https://github.com/Ms1black/lab-works-high-level-programming/blob/lab-1/solutions/3.cpp) :skull:
 ******
 ![изображение](https://github.com/user-attachments/assets/6c33b6b3-9cbe-47d2-bd50-4e3052b6558c)
 
