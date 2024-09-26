@@ -10,9 +10,8 @@
 ******
  ## Блок-схема:
 
-   
-!
- 
+ ![Диаграмма без названия drawio(9)](https://github.com/user-attachments/assets/7b2a008b-72fe-4db2-8930-c98e9c293449)
+
 
 
 # [Задание 2](https://github.com/Ms1black/lab-works-high-level-programming/blob/lab-2/solutions/2.cpp) 
