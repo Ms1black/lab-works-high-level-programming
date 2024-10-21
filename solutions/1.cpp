@@ -1,26 +1,25 @@
 #include <iostream>
 #include <cmath>
 
-using namespace std;
 
 int main() 
 {
-    int x;
-    
-    cin >> x;
+    double sum {}, prev {}, next {};
+    const double eps = 0.002;
+    int n = 1;
 
-    if(x <= 0) 
+    next = (pow(-1,(n-1)) / (pow(n,n)));
+
+    do 
     {
-        cout << -x << endl;
-    } 
-    else if ((x < 3) && (x > 0))
-    {
-        cout << 1 << endl;
-    } 
-    else 
-    {
-        cout << -1 << endl;
+        n++;
+        sum += next;
+        prev = next;
+        next = (pow(-1,(n-1)) / (pow(n,n)));
     }
+    while (fabs(prev - next) > eps);
+    
+    std::cout << sum << std::endl;
 
     return 0;
 }
